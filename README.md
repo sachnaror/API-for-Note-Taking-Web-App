@@ -42,10 +42,8 @@ class NoteResource(ModelResource):
 Now it works! Try the request, and we get back 201, AKA success! Yay!
 
 
-![image](https://github.com/sachnaror/API-for-Note-Taking-Web-App/assets/9551754/262b40a4-49c3-4ddb-9c58-214a6b06ddd5)
+<img width="1673" alt="image" src="https://github.com/sachnaror/API-for-Note-Taking-Web-App/assets/9551754/fed7c391-aa1c-45c1-a598-65fcc829d6ea">
 
-
-![image](https://github.com/sachnaror/API-for-Note-Taking-Web-App/assets/9551754/1d3ac357-19de-41b5-bfb1-5188d1e4c1f3)
 
 
 
