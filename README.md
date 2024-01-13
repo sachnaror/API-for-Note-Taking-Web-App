@@ -1,5 +1,6 @@
 
-# Rest API for a Google Keep-like note-taking web app (along with Python Webpack Boilerplate). 
+# Rest API for a Google Keep-like note-taking web app 
+(along with Python Webpack Boilerplate). 
 
 ---------------------------------
 If we do not need React or Vue, we can still use Webpack to help us compile ES6, SCSS, and do many other things (Many people do not know that!)
