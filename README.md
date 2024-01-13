@@ -50,6 +50,32 @@ class NoteResource(ModelResource):
 ```
 Now it works! Try the request, and we get back 201, AKA success! Yay!
 
+---------------------
+For Webpack
+---------------------
+
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm run start`
+
+`npm run start` will launch a server process, which makes `live reloading` possible.
+
+If you change JS or SCSS files, the web page would auto refresh after the change. Now the server is working on port 9091 by default, but you can change it in `webpack/webpack.config.dev.js`
+
+### `npm run watch`
+
+run webpack in `watch` mode.
+
+### `npm run build`
+
+Webpack would focus on minified bundles, lighter weight source maps, and optimized assets to improve load time.
+
+
+
+
 
 <img width="1673" alt="image" src="https://github.com/sachnaror/API-for-Note-Taking-Web-App/assets/9551754/fed7c391-aa1c-45c1-a598-65fcc829d6ea">
 
